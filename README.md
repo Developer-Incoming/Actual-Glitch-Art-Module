@@ -1,6 +1,6 @@
 # *A*ctual *G*litch *A*rt *M*odule
 
-Produces authentic glitched images with a wide varity of configurations for you to play with.
+Produces authentic glitched images with a wide variety of configurations for you to play with.
 
 ---
 ### Original:
