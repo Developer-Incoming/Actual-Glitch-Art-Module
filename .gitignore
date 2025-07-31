@@ -1,0 +1,9 @@
+*
+!Examples/
+!Examples/**
+!.gitattributes
+!agam.py
+!LICENSE
+!README.md
+!requirements.txt
+!.gitignore
